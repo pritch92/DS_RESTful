@@ -1,0 +1,9 @@
+com/mycompany/brainstormserver/CrossOrigin.class
+com/mycompany/brainstormserver/service/ApplicationConfig.class
+com/mycompany/brainstormserver/Comments.class
+com/mycompany/brainstormserver/service/CommentsFacadeREST.class
+com/mycompany/brainstormserver/Users.class
+com/mycompany/brainstormserver/Comments_.class
+com/mycompany/brainstormserver/service/AbstractFacade.class
+com/mycompany/brainstormserver/service/UsersFacadeREST.class
+com/mycompany/brainstormserver/Users_.class
